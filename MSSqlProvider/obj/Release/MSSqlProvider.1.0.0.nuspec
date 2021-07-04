@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MSSqlProvider</id>
+    <version>1.0.0</version>
+    <authors>MSSqlProvider</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="DatabaseProvider" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="System.Composition.AttributedModel" version="5.0.1" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SqlClient" version="4.8.2" exclude="Build,Analyzers" />
+        <dependency id="Unity" version="5.11.10" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\Personal\SparkyFlash\github\public\database-factory-plugin-required-db-provider\MSSqlProvider\bin\Release\netstandard2.0\MSSqlProvider.dll" target="lib\netstandard2.0\MSSqlProvider.dll" />
+  </files>
+</package>

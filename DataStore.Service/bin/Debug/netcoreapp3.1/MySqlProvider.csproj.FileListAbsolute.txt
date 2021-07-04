@@ -1,0 +1,11 @@
+E:\Personal\SparkyFlash\github\public\database-factory-plugin-required-db-provider\MySqlProvider\bin\Debug\netstandard2.0\MySqlProvider.deps.json
+E:\Personal\SparkyFlash\github\public\database-factory-plugin-required-db-provider\MySqlProvider\bin\Debug\netstandard2.0\MySqlProvider.dll
+E:\Personal\SparkyFlash\github\public\database-factory-plugin-required-db-provider\MySqlProvider\bin\Debug\netstandard2.0\MySqlProvider.pdb
+E:\Personal\SparkyFlash\github\public\database-factory-plugin-required-db-provider\MySqlProvider\bin\Debug\netstandard2.0\DatabaseProvider.dll
+E:\Personal\SparkyFlash\github\public\database-factory-plugin-required-db-provider\MySqlProvider\bin\Debug\netstandard2.0\DatabaseProvider.pdb
+E:\Personal\SparkyFlash\github\public\database-factory-plugin-required-db-provider\MySqlProvider\obj\Debug\netstandard2.0\MySqlProvider.AssemblyInfoInputs.cache
+E:\Personal\SparkyFlash\github\public\database-factory-plugin-required-db-provider\MySqlProvider\obj\Debug\netstandard2.0\MySqlProvider.AssemblyInfo.cs
+E:\Personal\SparkyFlash\github\public\database-factory-plugin-required-db-provider\MySqlProvider\obj\Debug\netstandard2.0\MySqlProvider.csproj.CoreCompileInputs.cache
+E:\Personal\SparkyFlash\github\public\database-factory-plugin-required-db-provider\MySqlProvider\obj\Debug\netstandard2.0\MySqlProvider.csproj.CopyComplete
+E:\Personal\SparkyFlash\github\public\database-factory-plugin-required-db-provider\MySqlProvider\obj\Debug\netstandard2.0\MySqlProvider.dll
+E:\Personal\SparkyFlash\github\public\database-factory-plugin-required-db-provider\MySqlProvider\obj\Debug\netstandard2.0\MySqlProvider.pdb

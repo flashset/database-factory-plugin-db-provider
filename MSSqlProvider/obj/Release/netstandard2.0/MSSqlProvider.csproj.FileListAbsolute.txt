@@ -1,0 +1,12 @@
+E:\Personal\SparkyFlash\github\public\database-factory-plugin-required-db-provider\MSSqlProvider\bin\Release\netstandard2.0\MSSqlProvider.deps.json
+E:\Personal\SparkyFlash\github\public\database-factory-plugin-required-db-provider\MSSqlProvider\bin\Release\netstandard2.0\MSSqlProvider.dll
+E:\Personal\SparkyFlash\github\public\database-factory-plugin-required-db-provider\MSSqlProvider\bin\Release\netstandard2.0\MSSqlProvider.pdb
+E:\Personal\SparkyFlash\github\public\database-factory-plugin-required-db-provider\MSSqlProvider\bin\Release\netstandard2.0\DatabaseProvider.dll
+E:\Personal\SparkyFlash\github\public\database-factory-plugin-required-db-provider\MSSqlProvider\bin\Release\netstandard2.0\DatabaseProvider.pdb
+E:\Personal\SparkyFlash\github\public\database-factory-plugin-required-db-provider\MSSqlProvider\obj\Release\netstandard2.0\MSSqlProvider.csprojAssemblyReference.cache
+E:\Personal\SparkyFlash\github\public\database-factory-plugin-required-db-provider\MSSqlProvider\obj\Release\netstandard2.0\MSSqlProvider.AssemblyInfoInputs.cache
+E:\Personal\SparkyFlash\github\public\database-factory-plugin-required-db-provider\MSSqlProvider\obj\Release\netstandard2.0\MSSqlProvider.AssemblyInfo.cs
+E:\Personal\SparkyFlash\github\public\database-factory-plugin-required-db-provider\MSSqlProvider\obj\Release\netstandard2.0\MSSqlProvider.csproj.CoreCompileInputs.cache
+E:\Personal\SparkyFlash\github\public\database-factory-plugin-required-db-provider\MSSqlProvider\obj\Release\netstandard2.0\MSSqlProvider.csproj.CopyComplete
+E:\Personal\SparkyFlash\github\public\database-factory-plugin-required-db-provider\MSSqlProvider\obj\Release\netstandard2.0\MSSqlProvider.dll
+E:\Personal\SparkyFlash\github\public\database-factory-plugin-required-db-provider\MSSqlProvider\obj\Release\netstandard2.0\MSSqlProvider.pdb

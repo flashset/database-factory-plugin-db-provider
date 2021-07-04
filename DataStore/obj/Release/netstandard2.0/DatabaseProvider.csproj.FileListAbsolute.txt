@@ -1,0 +1,9 @@
+E:\Personal\SparkyFlash\github\public\database-factory-plugin-required-db-provider\DataStore\bin\Release\netstandard2.0\DatabaseProvider.deps.json
+E:\Personal\SparkyFlash\github\public\database-factory-plugin-required-db-provider\DataStore\bin\Release\netstandard2.0\DatabaseProvider.dll
+E:\Personal\SparkyFlash\github\public\database-factory-plugin-required-db-provider\DataStore\bin\Release\netstandard2.0\DatabaseProvider.pdb
+E:\Personal\SparkyFlash\github\public\database-factory-plugin-required-db-provider\DataStore\obj\Release\netstandard2.0\DatabaseProvider.csprojAssemblyReference.cache
+E:\Personal\SparkyFlash\github\public\database-factory-plugin-required-db-provider\DataStore\obj\Release\netstandard2.0\DatabaseProvider.AssemblyInfoInputs.cache
+E:\Personal\SparkyFlash\github\public\database-factory-plugin-required-db-provider\DataStore\obj\Release\netstandard2.0\DatabaseProvider.AssemblyInfo.cs
+E:\Personal\SparkyFlash\github\public\database-factory-plugin-required-db-provider\DataStore\obj\Release\netstandard2.0\DatabaseProvider.csproj.CoreCompileInputs.cache
+E:\Personal\SparkyFlash\github\public\database-factory-plugin-required-db-provider\DataStore\obj\Release\netstandard2.0\DatabaseProvider.dll
+E:\Personal\SparkyFlash\github\public\database-factory-plugin-required-db-provider\DataStore\obj\Release\netstandard2.0\DatabaseProvider.pdb

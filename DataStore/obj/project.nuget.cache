@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mKDqS20XL76Q7Z3ed/yxCdpZN2GugK97EFSiszP2LWqCUlPKgtYAm2T80gmkHz1rERR02GPn6U4dFs6J+oEf1w==",
+  "success": true,
+  "projectFilePath": "E:\\Personal\\SparkyFlash\\github\\public\\database-factory-plugin-required-db-provider\\DataStore\\DatabaseProvider.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shashi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Shashi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
